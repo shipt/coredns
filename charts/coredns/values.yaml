@@ -66,6 +66,7 @@ prometheus:
     interval: ""
 
 service:
+  create: true
 # clusterIP: ""
 # loadBalancerIP: ""
 # externalIPs: []
